@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    let myGitProject = "My First Git project, yes i did it"
+    let myGitProject = "My First Git project, yes i did it, and it works to"
 
     override func viewDidLoad() {
         super.viewDidLoad()
