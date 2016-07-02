@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    let myGitProject = "My First Git project"
 
     override func viewDidLoad() {
         super.viewDidLoad()
